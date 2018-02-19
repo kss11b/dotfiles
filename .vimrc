@@ -8,11 +8,9 @@ set hidden
 set history=100
 filetype indent on
 set nowrap
-set tabstop=2
+set tabstop=4
 set expandtab
 set smartindent
 set autoindent
 set hlsearch
 set showmatch
-let mapleader=" "
-
